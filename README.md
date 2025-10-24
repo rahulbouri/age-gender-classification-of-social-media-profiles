@@ -11,3 +11,4 @@ Specifically, we utilized the Mobile Vision Transformer (Mobile ViT), which empl
 ## Results
 
 We have achieved an accuracy of 76.67%, surpassing the state-of-the-art model for classifying age. This outcome demonstrates the effectiveness of combining age and gender for the classification task.
+
